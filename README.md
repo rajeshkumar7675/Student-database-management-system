@@ -1,8 +1,4 @@
-
-
-.
-
-🎓 Student Database Management System
+**🎓 Student Database Management System**
 
 A simple Student Database Management System developed using Python and SQL. This project allows users to manage student records efficiently through database operations like adding, viewing, updating, and deleting student details.
 
